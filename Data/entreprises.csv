@@ -1,0 +1,44 @@
+nom,taille,popularite_info,secteur,concurrent_de
+GEN 42,grande,0.8,Services de publicité et de relations publiques,OUEDKNISS;Business Leads Algeria;NetBeOpen
+SARL CorpoSense,grande,0.8,Services d'ingénierie,Yucca Labs;Centre Commercial Mohammedia;Data Bridges;EURL BRENCO;EURL GGESC;sarl cosoft;DZHOSTER;EURL DZ-IT
+Factory Digitale,moyenne,0.65,Technologie de l'information,
+Yucca Labs,grande,0.8,Services d'ingénierie,SARL CorpoSense;Centre Commercial Mohammedia;Data Bridges;EURL BRENCO;EURL GGESC;sarl cosoft;DZHOSTER;EURL DZ-IT
+Sirius Net,moyenne,0.55,Développement logiciel,INTELLIX;TECHNOSOFT;HiveDigit;EURL DZMOB;sarl brainiac
+Legal doctrine,moyenne,0.25,Services juridiques,
+Easy Relay,moyenne,0.15,Transport et entreposage,GARINI
+Centre Commercial Mohammedia,moyenne,0.3,Services d'ingénierie,Data Bridges;EURL BRENCO;EURL GGESC;sarl cosoft;DZHOSTER;EURL DZ-IT;Yucca Labs;SARL CorpoSense
+SARL DATAGIX,grande,0.75,Services de télécommunications,
+EURL DZ-IT,moyenne,0.6,Intégration de Solution Informatique,Centre Commercial Mohammedia;Data Bridges;EURL BRENCO;EURL GGESC;sarl cosoft;Yucca Labs;SARL CorpoSense
+Kdconcept,moyenne,0.35,Technologies Web Digital,Goubba Solutions
+Goubba Solutions,moyenne,0.45,Digital tech et Advertisement & Fintech,Kdconcept
+INTELLIX,moyenne,0.65,Développement de logiciels ERP,TECHNOSOFT;HiveDigit;EURL DZMOB;sarl brainiac
+Data Bridges,grande,0.8,Services d'ingénierie,Centre Commercial Mohammedia;EURL BRENCO;EURL GGESC;sarl cosoft;DZHOSTER;EURL DZ-IT;Yucca Labs;SARL CorpoSense
+EY Algérie,grande,0.7,Services financiers,Grant Thornton Algeria
+Business Leads Algeria,moyenne,0.45,Services de publicité et de relations publiques,OUEDKNISS;NetBeOpen;GEN 42
+EURL BRENCO,moyenne,0.35,Services d'ingénierie,Centre Commercial Mohammedia;Data Bridges;EURL GGESC;sarl cosoft;DZHOSTER;EURL DZ-IT;Yucca Labs;SARL CorpoSense
+COERA,moyenne,0.4,Consulting et solution informatique,
+TECHNOSOFT,moyenne,0.65,Développement de solutions informatiques,INTELLIX;HiveDigit;EURL DZMOB;sarl brainiac
+Solic Algérie,moyenne,0.25,Cabinet de conseil en recrutement et ressources humaines,
+AITech,moyenne,0.2,Agriculture,
+BIGmama Technology,moyenne,0.6,Conseil en data science,
+Grant Thornton Algeria,grande,0.4,Services financiers,EY Algérie
+SARL MICROM,petite,0.45,Métiers de la technologie informatique et sécurité,
+Smeetz,petite,0.35,Ticketing,
+Startup Bougie,petite,0.15,Éducation/formation,GOMYCODE Algeria
+EURL GGESC,grande,0.75,Services d'ingénierie,Centre Commercial Mohammedia;Data Bridges;EURL BRENCO;sarl cosoft;DZHOSTER;EURL DZ-IT;Yucca Labs;SARL CorpoSense
+HiveDigit,moyenne,0.65,Développement web & mobile,INTELLIX;TECHNOSOFT;EURL DZMOB;sarl brainiac
+KPMG Algérie SPA,grande,0.7,Conseil aux entreprises,
+EURL DZMOB,moyenne,0.65,Développement web et mobile,INTELLIX;TECHNOSOFT;HiveDigit;sarl brainiac
+NetBeOpen,moyenne,0.45,Services de publicité et de relations publiques,OUEDKNISS;Business Leads Algeria;GEN 42
+Triz Tech,moyenne,0.2,Service commercial / médical,
+sarl cosoft,petite,0.4,Services d'ingénierie,Centre Commercial Mohammedia;Data Bridges;EURL BRENCO;EURL GGESC;DZHOSTER;EURL DZ-IT;Yucca Labs;SARL CorpoSense
+sarl brainiac,petite,0.55,Boîte de développement informatique,INTELLIX;TECHNOSOFT;HiveDigit;EURL DZMOB
+EURL SOSETEL,moyenne,0.5,Services de télécommunications,SARL DATAGIX
+SMARTEST,moyenne,0.6,Solutions digitales,
+CASH ASSURANCES,petite,0.15,Assurances,
+OUEDKNISS,grande,0.9,Services de publicité et de relations publiques,Business Leads Algeria;NetBeOpen;GEN 42
+GARINI,petite,0.15,Mobilité et transports,
+Jow,grande,0.15,Media Digital,
+DZHOSTER,grande,0.95,Services d'ingénierie,Centre Commercial Mohammedia;Data Bridges;EURL BRENCO;EURL GGESC;sarl cosoft;EURL DZ-IT;Yucca Labs;SARL CorpoSense
+GOMYCODE Algeria,grande,0.9,Éducation/formation,Startup Bougie
+Pwc,grande,0.85,Conseil en management,
